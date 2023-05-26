@@ -1,0 +1,68 @@
+hr {
+    color: #1D267D;
+}
+.fir { background-color: #F2D8D8;
+    color: #0B2447;
+    font-family: 'Anton', sans-serif;
+     border: solid white 10px;
+    padding: 20px;
+    height: 400px;
+    margin-left: -10px;
+    margin-right: -10px;
+} 
+.mixt { color: #408E91;
+}
+h4 {
+     color: #37306B;
+}
+h1,h4 {
+    font-family: 'Pangolin', cursive;
+}
+.apt {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #537188;
+    border: solid white 10px;
+    padding: 20px;
+    height: 400px;
+    background-color: #ACBCFF;
+    margin-left: -10px;
+    margin-right: -10px;
+    }
+    .email {
+       height: 50px;
+       width: 100px;
+       position: relative;
+    }
+    .tel {
+        height: 50px;
+        width: 100px;
+        position: relative;
+        left: 80px;
+        bottom: 50px;
+    }
+    .google {
+        height: 50px;
+        width: 100px;
+        position: relative;
+        left: 160px;
+        bottom: 100px;
+
+    }
+    .flag {
+        background-color: blue;
+        width: 40px;
+        height: 60px;
+        position: relative;
+        left: 300px;
+        bottom: 80px;
+    }
+    .red {
+        background-color: red;
+        left: 380px;
+        bottom: 200px;
+    }
+    .yellow {
+        background-color: yellow;
+        left: 340px;
+        bottom: 140px;
+    }
